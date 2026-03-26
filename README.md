@@ -16,7 +16,6 @@ This project demonstrates the fine-tuning of the `Qwen2-0.5B-Instruct` Large Lan
   - [Qualitative Analysis](#qualitative-analysis)
 - [Results and Conclusion](#results-and-conclusion)
 - [Future Work](#future-work)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Overview
