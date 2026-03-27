@@ -90,7 +90,7 @@ Below is a comparison table generated during the evaluation:
 | Explain the concept of flutter in aircraft.                 | ...a software engineering framework developed by Airbus... | ...an aeroelastic phenomenon in aircraft...               |
 | List common non-destructive testing methods for aerospace components. | ...Surface Mounting Testing (SMT)...                     | ...Plan = [1] # Define list of commonly used techniques... |
 
-*(Full outputs are available within the `fine_tuning_qwen2_dpo.ipynb` notebook and in the `df_results` DataFrame.)*
+*(Full outputs are available within the `Capstone_Project_Qwen_0_5B_Agent.ipynb` notebook and in the `df_results` DataFrame.)*
 
 ## Results and Conclusion
 This project successfully demonstrated the application of DPO and LoRA to fine-tune `Qwen2-0.5B-Instruct` for aerospace engineering tasks. Despite using a very small dataset, the qualitative improvements, particularly in the model's understanding of specific domain concepts and adherence to instruction following, were notable. The `eval_loss` confirms the DPO training objective was met.
